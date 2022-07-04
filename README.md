@@ -28,7 +28,20 @@
 ### Инструменты которыми я владею:
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-2c2d35?style=flat-square&logo=Figma&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-1fcef5?style=flat-square&logo=adobe&logoColor=white" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-f57b08?style=flat-square&logo=adobe&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-0b6074?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-a85405?style=flat-square&logo=Adobe Illustrator&logoColor=white" />
   <span> </span>
+</p>
+
+### Связь со мной:
+<p>
+  <a href="https://vk.com/shizz0id"><img alt="VK" src="https://img.shields.io/badge/-Вконтакте-0077ff?style=flat-square&logo=vk&logoColor=white" /></a>
+  <a href="https://t.me/Shizz0id"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
+  <a href="mailto:shizza.ho@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/-shizza.ho@yandex.ru-7e7e7e?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <span> </span>
+</p>
+
+### Ссылки:
+<p>
+  <a href="https://shizzaho-portfolio.vercel.app"><img alt="Портфолио" src="https://img.shields.io/badge/-Мое портфолио-2c2d35?style=flat-square&logo=Vercel&logoColor=white" /></a>
 </p>
