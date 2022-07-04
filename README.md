@@ -9,7 +9,7 @@
   <span> </span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="mui" src="https://img.shields.io/badge/-MaterialUI-0080cb?style=flat-square&logo=mui&logoColor=white" />
   <span> </span>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4fa94b?style=flat-square&logo=MongoDB&logoColor=white" />
