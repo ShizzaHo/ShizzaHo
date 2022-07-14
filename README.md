@@ -45,3 +45,10 @@
 <p>
   <a href="https://shizzaho-portfolio.vercel.app"><img alt="Портфолио" src="https://img.shields.io/badge/-Мое портфолио-2c2d35?style=flat-square&logo=Vercel&logoColor=white" /></a>
 </p>
+
+## Графики:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShizzaHo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShizzaHo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
