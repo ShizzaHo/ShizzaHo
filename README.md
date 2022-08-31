@@ -4,13 +4,11 @@
 
 ### Что я умею использовать, и чему я отдаю свое предпочтение:
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f9e64a?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-017acc?style=flat-square&logo=typescript&logoColor=white" />
   <span> </span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="MobX" src="https://img.shields.io/badge/-MobX-ea6618?style=flat-square&logo=MobX&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="mui" src="https://img.shields.io/badge/-MaterialUI-0080cb?style=flat-square&logo=mui&logoColor=white" />
   <span> </span>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4fa94b?style=flat-square&logo=MongoDB&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-016f8c?style=flat-square&logo=MySQL&logoColor=white" />
