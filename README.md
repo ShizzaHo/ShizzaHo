@@ -15,8 +15,6 @@
   <span> </span>
   <img alt="SASS" src="https://img.shields.io/badge/-Sass-c5568c?style=flat-square&logo=SASS&logoColor=white" />
   <span> </span>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-9241f9?style=flat-square&logo=Bootstrap&logoColor=white" />
-  <span> </span>
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-2b2e3b?style=flat-square&logo=Electron&logoColor=9ee9f8" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-f9f9f9?style=flat-square&logo=Express&logoColor=black" />
   <span> </span>
@@ -48,5 +46,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShizzaHo&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShizzaHo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShizzaHo&theme=dark)
 
+![Codewars](https://www.codewars.com/users/ShizzaHo/badges/large)
