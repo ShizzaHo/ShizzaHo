@@ -32,7 +32,7 @@
 ### Связь со мной:
 <p>
   <a href="https://vk.com/shizz0id"><img alt="VK" src="https://img.shields.io/badge/-Вконтакте-0077ff?style=flat-square&logo=vk&logoColor=white" /></a>
-  <a href="https://t.me/Shizz0id"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
+  <a href="https://t.me/ShizzaHo"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
   <a href="mailto:shizza.ho@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/-shizza.ho@yandex.ru-7e7e7e?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <span> </span>
 </p>
