@@ -24,55 +24,28 @@
 
 Я ваще дико презираю <img alt="Redux" src="https://img.shields.io/badge/-Redux-ea6618?style=flat-square&logo=MobX&logoColor=white" />, это внатуре загруженное говно, которое используется в легаси параше, какой вообще смысл от этой библиотеки, когда гораздо проще можно написать все на MobX, и не надо пиздеть мне о большем контроле, слышал, знаю. Извините за минутку агрессии <img width="32px" src="https://media.tenor.com/LRtjCI3svxgAAAAi/spongebob-bladee.gif" />
 
+<br><br><br><br><br><br>
 
-
-// Все что ниже - легаси говно, которое нужно жоска по хайпу отрефакторить после игры в РОККЕТ ЛИГАА
-
-
-### Что я умею использовать, и чему я отдаю свое предпочтение:
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-017acc?style=flat-square&logo=typescript&logoColor=white" />
-  <span> </span>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="MobX" src="https://img.shields.io/badge/-MobX-ea6618?style=flat-square&logo=MobX&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <span> </span>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4fa94b?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-016f8c?style=flat-square&logo=MySQL&logoColor=white" />
-  <span> </span>
-  <img alt="SASS" src="https://img.shields.io/badge/-Sass-c5568c?style=flat-square&logo=SASS&logoColor=white" />
-  <span> </span>
-  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2b2e3b?style=flat-square&logo=Electron&logoColor=9ee9f8" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-f9f9f9?style=flat-square&logo=Express&logoColor=black" />
-  <span> </span>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-ee5132?style=flat-square&logo=Git&logoColor=white" />
+<p align="center">
+  <img width="30%" src="https://i.postimg.cc/FRG4NTG7/wordart.png" />
 </p>
 
-### Инструменты которыми я владею:
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-2c2d35?style=flat-square&logo=Figma&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-0b6074?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-a85405?style=flat-square&logo=Adobe Illustrator&logoColor=white" />
-  <span> </span>
-</p>
+<br><br><br>
 
-### Связь со мной:
-<p>
-  <a href="https://vk.com/shizz0id"><img alt="VK" src="https://img.shields.io/badge/-Вконтакте-0077ff?style=flat-square&logo=vk&logoColor=white" /></a>
-  <a href="https://t.me/ShizzaHo"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
-  <a href="mailto:shizza.ho@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/-shizza.ho@yandex.ru-7e7e7e?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <span> </span>
-</p>
+Если вы решите мне написать, то обязательно начинайте свое сообщение с текста: <b>Здарова братуха</b>
 
-### Ссылки:
-<p>
-  <a href="https://shizzaho-portfolio.vercel.app"><img alt="Портфолио" src="https://img.shields.io/badge/-Мое портфолио-2c2d35?style=flat-square&logo=Vercel&logoColor=white" /></a>
-</p>
+<a href="https://t.me/ShizzaHo"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
+Предпочитетльно пишите в телеграмчик) <img width="32px" src="https://media.tenor.com/DueiXPEZC6sAAAAi/hi-twitch.gif" />
+<br>
 
-## Графики:
+<a href="https://vk.com/shizz0id"><img alt="VK" src="https://img.shields.io/badge/-Вконтакте-0077ff?style=flat-square&logo=vk&logoColor=white" /></a>
+Плиз, не пишите мне в эту помойку(( <img width="32px" src="https://media.tenor.com/H-Pd7auVVYUAAAAi/biblethump-sadge.gif" />
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShizzaHo&show_icons=true&theme=dark)
+<a href="mailto:shizza.ho@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/-shizza.ho@yandex.ru-7e7e7e?style=flat-square&logo=Gmail&logoColor=white" /></a>
+Не факт что отвечу, кто ваще использует почту на ежедневной основе? <img width="32px" src="https://media.tenor.com/R9mboTIPaCIAAAAi/verycat.gif" />
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShizzaHo&theme=dark)
+<br><br><br><br><br><br>
 
-![Codewars](https://www.codewars.com/users/ShizzaHo/badges/large)
+<img width="100%" src="https://i.postimg.cc/vBjcG801/Frame-2.png" />
