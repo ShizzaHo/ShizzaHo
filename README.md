@@ -1,6 +1,33 @@
-# Привет, я Frontend-разработчик из Екатеринбурга
+<img width="100%" src="https://i.postimg.cc/d1nNZVHn/Frame-1.png" />
 
-Меня зовут Константин, и мне 18 лет, на данный момент я обучаюсь в одном из Уральских колледжей, я специализируюсь на FrontEnd направлении, и отдаю свое предпочтение React ~~фреймворку~~ библиотеке.
+<br><br><br><br><br><br>
+
+<p align="center">
+  <img width="50%" src="https://i.postimg.cc/JzPDJSVr/wordart-1.png" />
+</p>
+
+<br><br><br>
+
+<b>Здарова братанчик!</b> меня зовут Костян, в бывшем ~боец на фронте~ фронтенд разаработчик, щас я все цело разочаровался в коммерческой разработке, и слился в сторону системного админитсратирования <img width="32px" src="https://media.tenor.com/4QoQDFkU14oAAAAi/vibe-jam.gif" />
+
+Теперь программирование для меня чисто хайповое хобби, так сказать чисто для души <img width="32px" src="https://media.tenor.com/BNCGMkuDKUoAAAAi/porvalo-arthas-twitch-smileржакасмеяка-arthas.gif" />
+
+<br><br><br><br><br><br>
+
+<p align="center">
+  <img width="50%" src="https://i.postimg.cc/jjD1r0RC/wordart-2.png" />
+</p>
+
+<br><br><br>
+
+Вообще я настолько хайп, что пишу все что можно на <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-017acc?style=flat-square&logo=typescript&logoColor=white" />, ну и конечно в связке с <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="MobX" src="https://img.shields.io/badge/-MobX-ea6618?style=flat-square&logo=MobX&logoColor=white" />.
+
+Я ваще дико презираю <img alt="Redux" src="https://img.shields.io/badge/-Redux-ea6618?style=flat-square&logo=MobX&logoColor=white" />, это внатуре загруженное говно, которое используется в легаси параше, какой вообще смысл от этой библиотеки, когда гораздо проще можно написать все на MobX, и не надо пиздеть мне о большем контроле, слышал, знаю. Извините за минутку агрессии <img width="32px" src="https://media.tenor.com/LRtjCI3svxgAAAAi/spongebob-bladee.gif" />
+
+
+
+// Все что ниже - легаси говно, которое нужно жоска по хайпу отрефакторить после игры в РОККЕТ ЛИГАА
+
 
 ### Что я умею использовать, и чему я отдаю свое предпочтение:
 <p>
