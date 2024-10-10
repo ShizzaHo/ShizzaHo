@@ -34,7 +34,7 @@
 
 Если вы решите мне написать, то обязательно начинайте свое сообщение с текста: <b>Здарова братуха</b>
 
-<a href="https://t.me/ShizzaHo"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
+<a href="https://t.me/Shizz0id"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0a2f41?style=flat-square&logo=Telegram&logoColor=white" /></a>
 Предпочитетльно пишите в телеграмчик) <img width="32px" src="https://media.tenor.com/DueiXPEZC6sAAAAi/hi-twitch.gif" />
 <br>
 
