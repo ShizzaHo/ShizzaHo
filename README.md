@@ -9,4 +9,4 @@
 
 Мои игры: <a href="https://shizzaho.itch.io/">itch.io</a>
 
-Моя музыка: <a href="https://www.youtube.com/@Shimuzzi">YouTube</a>
+Моя музыка: <a href="https://www.youtube.com/@Shimuzzi">YouTube</a> <a href="https://soundcloud.com/shimuzzi">SoundCloud</a>
